@@ -1,0 +1,3 @@
+USERNAME = ''
+PASSWORD = ''
+CURRENT_CLASS = 'c1'
